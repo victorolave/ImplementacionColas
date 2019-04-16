@@ -3,7 +3,7 @@
 Programa de consola con el lenguaje de programación Java que permite la implementación de colas para valores numéricos que ingrese el usuario.
 
 
-## Teoria 📖
+## Teoría 📖
 
 <b>Cola</b>. Una cola es una estructura de datos, caracterizada por ser una secuencia de elementos en la que la operación de inserción push se realiza por un extremo y la operación de extracción pop por el otro. También se le llama estructura <b>FIFO</b> (del inglés First In First Out), debido a que el primer elemento en entrar será también el primero en salir.
 
@@ -13,7 +13,7 @@ Las colas se utilizan en sistemas informáticos, transportes y operaciones de in
 
 ## Construido con 🛠️
 
-Para la programación de este programa se utilizo:
+Para la programación de este programa se utilizó:
 * [Java](https://www.java.com/es/) - Lenguaje de programación.
 * [Apache Netbeans](https://netbeans.apache.org/) - Entorno de desarrollo.
 
